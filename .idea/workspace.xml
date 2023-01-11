@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f16264a-dc71-46f5-85f7-a361195216c3" name="Changes" comment="Abstract factory microtask">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/decorator/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/decorator/DataSourceDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/decorator/EncryptionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/decorator/FileDataSource.java" afterDir="false" />
+    <list default="true" id="2f16264a-dc71-46f5-85f7-a361195216c3" name="Changes" comment="Decorator microtask">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/singleton/DBConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/Enemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/Sword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/iron/IronDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/iron/IronDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/iron/IronFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/iron/IronFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/iron/IronSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/iron/IronSword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/wooden/WoodenDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/wooden/WoodenDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/wooden/WoodenFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/wooden/WoodenFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/wooden/WoodenSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/abstractfactory/wooden/WoodenSword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673364742760</updated>
       <workItem from="1673364743895" duration="632000" />
-      <workItem from="1673441802743" duration="4072000" />
+      <workItem from="1673441802743" duration="7014000" />
     </task>
     <task id="LOCAL-00001" summary="Abstract factory microtask">
       <created>1673449327035</created>
@@ -78,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673449327035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Decorator microtask">
+      <created>1673451503207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673451503207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Abstract factory microtask" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract factory microtask" />
+    <MESSAGE value="Decorator microtask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorator microtask" />
   </component>
 </project>
