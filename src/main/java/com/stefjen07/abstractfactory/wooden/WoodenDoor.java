@@ -1,6 +1,6 @@
-package org.example.abstractfactory.wooden;
+package com.stefjen07.abstractfactory.wooden;
 
-import org.example.abstractfactory.Door;
+import com.stefjen07.abstractfactory.Door;
 
 public class WoodenDoor implements Door {
     @Override

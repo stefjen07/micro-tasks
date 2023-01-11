@@ -1,6 +1,6 @@
-package org.example.abstractfactory.iron;
+package com.stefjen07.abstractfactory.iron;
 
-import org.example.abstractfactory.Door;
+import com.stefjen07.abstractfactory.Door;
 
 public class IronDoor implements Door {
     boolean isLocked;

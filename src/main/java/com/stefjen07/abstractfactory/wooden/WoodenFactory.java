@@ -1,8 +1,8 @@
-package org.example.abstractfactory.wooden;
+package com.stefjen07.abstractfactory.wooden;
 
-import org.example.abstractfactory.AbstractFactory;
-import org.example.abstractfactory.Door;
-import org.example.abstractfactory.Sword;
+import com.stefjen07.abstractfactory.AbstractFactory;
+import com.stefjen07.abstractfactory.Door;
+import com.stefjen07.abstractfactory.Sword;
 
 public class WoodenFactory implements AbstractFactory {
     @Override
